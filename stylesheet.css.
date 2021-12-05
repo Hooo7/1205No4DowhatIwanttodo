@@ -1,0 +1,21 @@
+.box6 {
+  position: relative;
+  margin: 2em auto;
+  padding: 1.2em;
+  width: 100%;
+  border: 2px solid #008000;
+  color: #008000; 
+  box-shadow: 2px 2px 1px #008b8b;　
+  border-radius: 20px;
+}
+
+.box6-title {
+  position: absolute;
+  left: 20px;
+  top: -15px;
+  padding: 0 .5em;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #0064000; 
+  background: #008080;
+}
